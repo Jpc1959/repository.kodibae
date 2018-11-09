@@ -6,7 +6,7 @@
         <import addon="script.module.urlresolver"  version="2.1.2"/>
         <import addon="script.module.simplejson" version="3.3.0"/>
     </requires>
-    <extension point="xbmc.python.pluginsource" library="default.py">
+    <extension point="xbmc.python.pluginsource" library="rlsbb.to">
         <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
